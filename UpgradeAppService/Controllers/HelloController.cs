@@ -9,7 +9,7 @@ namespace UpgradeAppService.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Hello. This API runs on Net 6.";
+            return "Hello. This API runs on Net 461.";
         }
     }
 }
